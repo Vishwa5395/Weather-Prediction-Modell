@@ -17,7 +17,8 @@ The workflow includes:
 
 ##  Dataset
 
-- **Source**: User-provided cleaned dataset (approximately 12,000 rows)
+- **Source**: User-provided cleaned dataset (approximately 14,000 rows)
+- **Region**: Calcutta region specific dataset used for this model
 - **File**: `weather_data.csv`
 - **Index**: `DATE` (in format `YYYY-DD-MM`)
 - **Target Variable**: `tavg` (Average Temperature in °F)

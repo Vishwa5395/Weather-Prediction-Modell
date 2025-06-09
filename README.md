@@ -1,10 +1,10 @@
-# 🌦️ Weather Forecasting using Ridge Regression (Temperature Prediction)
+#  Weather Forecasting using Ridge Regression (Temperature Prediction)
 
 This project aims to predict the **next day's average temperature** using historical weather data from Kolkata. We use **Ridge Regression**, a linear model that incorporates L2 regularization, to enhance prediction stability.
 
 ---
 
-## 📌 Overview
+##  Overview
 
 The workflow includes:
 - Cleaning and preprocessing a real-world dataset
@@ -15,7 +15,7 @@ The workflow includes:
 
 ---
 
-## 🗃️ Dataset
+##  Dataset
 
 - **Source**: User-provided cleaned dataset (approximately 12,000 rows)
 - **File**: `weather_data.csv`
@@ -24,7 +24,7 @@ The workflow includes:
 
 ---
 
-## 🛠️ Libraries Used
+##  Libraries Used
 
 - `pandas`: for data manipulation and preprocessing
 - `sklearn.linear_model.Ridge`: for training the Ridge Regression model
